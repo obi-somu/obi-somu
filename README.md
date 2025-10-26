@@ -42,7 +42,7 @@
 ---
 
 ## 💬 Let's Connect
-- **LinkedIn**: [[Clinton Obi](https://www.linkedin.com/in/obisomu/)]
+- **LinkedIn**: https://www.linkedin.com/in/obisomu/
 - **Email**: realclintonobi@gmail.com
 
 ---
