@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Somadina Obi</h1>
+<h1 align="center">👋 Hi, I'm Clinton Obi</h1>
 
 <p align="center">
   🎯 <b>Data Analyst in Training | 100-Day Challenge</b><br>
