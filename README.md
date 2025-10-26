@@ -42,8 +42,8 @@
 ---
 
 ## 💬 Let's Connect
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your email]
+- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/obisomu/)]
+- **Email**: realclintonobi@gmail.com
 
 ---
 
