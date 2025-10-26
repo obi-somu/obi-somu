@@ -42,7 +42,7 @@
 ---
 
 ## 💬 Let's Connect
-- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/obisomu/)]
+- **LinkedIn**: [[Clinton Obi](https://www.linkedin.com/in/obisomu/)]
 - **Email**: realclintonobi@gmail.com
 
 ---
